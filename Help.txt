@@ -1,0 +1,11 @@
+->Run the make file 
+->./game
+->In the game the semicircle to the left top corner is the speedometer,the angle increases as the speed increases.
+-> The Black stars are the target.
+->There are five lifes.
+->All the targets should be hit in 5 lifes.
+->The score and the number of lifes are shown in the terminal.
+-> The horizontal pieces below the stars are immovable obstacles.The rebounds if it hits them.
+->The verical shapes are movable obstacles.
+->the game will be over if all the five lives are used or if are targets are hit.
+
